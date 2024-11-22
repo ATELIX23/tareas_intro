@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JuegoPuntaje
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fichasRojas\ fichasAzules\ fichasAmarillas
+comment2.target=int\ calcularPuntaje(int,\ int,\ int)
+comment3.params=random
+comment3.target=java.lang.String\ generarNombreConApodo(java.util.Random)
+comment4.params=
+comment4.target=void\ mostrarFraseDeExito()
+comment5.params=
+comment5.target=void\ mostrarFraseDeError()
+comment6.params=scanner\ mensaje
+comment6.target=int\ obtenerNumeroValido(java.util.Scanner,\ java.lang.String)
+comment7.params=scanner
+comment7.target=int\ obtenerRespuestaConTiempo(java.util.Scanner)
+numComments=8
